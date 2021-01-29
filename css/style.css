@@ -1,0 +1,31 @@
+body{
+    background-color: gainsboro;
+}
+
+.bx{
+    box-shadow: 2px 2px 18px rgba(0,0,0,0.2);
+}
+
+.full-size-button{
+    width: 321px;
+    border-radius: 4px;
+}
+
+.card-border{
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    border: 0px;
+}
+
+.full-size-detail-button{
+    width: 150px;
+    border-radius: 4px;
+}
+
+.full-size-edit-button{
+    width: 120px;
+    border-radius: 4px;
+}
+.full-size-delete-button{
+    width: 150px;
+    border-radius: 4px;
+} 
